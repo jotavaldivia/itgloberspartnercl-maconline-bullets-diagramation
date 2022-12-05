@@ -1,0 +1,21 @@
+.bullet__container {
+    display: flex;
+    justify-content: center;
+    overflow: auto;
+}
+
+.bullet__item {}
+
+.bullet__item--title {
+    text-align: center;
+}
+
+.bullet__item--image {
+    min-width: 80px;
+    border-radius: 50px;
+}
+
+.bullet__item--link {
+    text-decoration: none;
+    color: gray;
+}
